@@ -1,19 +1,21 @@
-# 📧 Mailer — Built Folder
+# Mailer - Built Folder
 
-A compiled/built folder of an email template project.
+## Overview
 
-## 🧰 Tech Stack
+A compiled build folder of an email template project.
 
-`HTML5` `CSS3`
+## Technology Stack
 
-## 🚀 Getting Started
+HTML5, CSS3
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/Mailer-BuiltFolder.git
 cd Mailer-BuiltFolder
-# open index.html in your browser (or npm install && npm run dev for React/Node projects)
+# Open index.html in your browser, or run npm install && npm run dev for React and Node projects
 ```
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
